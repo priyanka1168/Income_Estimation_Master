@@ -1,6 +1,6 @@
 ## Income Estimation :dollar:	
 
-:trident:	 This is an End-to-End Data Science Project built in order to predict whether the Income of a person exceeds $50k/year or not.
+:trident:	 This is  Data Science Project built in order to predict whether the Income of a person exceeds $50k/year or not.
 
 :cloud: The Project has been deployed on 3 Cloud Platforms:
 
